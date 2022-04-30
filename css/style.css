@@ -1,0 +1,12 @@
+
+/* header */
+h1{
+  font-size: 24px;
+  padding-left: 4px;
+  border-left:8px solid #285 ;
+  font-weight: normal;
+  color: darkolivegreen;
+}
+p{margin-top: 4px 0;
+  color: darkolivegreen;
+}
